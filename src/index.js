@@ -4,7 +4,8 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 import './index.scss';
-require('uswds');
+// require('uswds');
+import 'uswds';
 
 ReactDOM.render(
   <React.StrictMode>

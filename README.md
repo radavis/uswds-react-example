@@ -15,3 +15,5 @@ $ yarn
 $ yarn copy-assets
 $ yarn start
 ```
+
+important files in `node_modules/uswds/dist/scss/theme`
