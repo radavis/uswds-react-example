@@ -11,5 +11,7 @@ $ yarn add uswds node-sass
 after cloning...
 
 ```bash
+$ yarn
+$ yarn copy-assets
 $ yarn start
 ```
